@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning computing
 - 💞️ I’m looking to collaborate on IA y Cambio Climático
-- 📫 How to reach me jcasado@uoc.edu
+- 📫 How to reach me jcasadocasa@uoc.edu
 
 
 <!---
